@@ -1,16 +1,10 @@
-# todo_app
+แอปพลิเคชัน ToDo จัดการรายการสิ่งที่ต้องทำ พัฒนาโดยใช้ Flutter Framework 
+สำหรับระบบ Android/iOS โดยนักศึกษาฝึกงาน มีฟีเจอร์พื้นฐาน เช่น เพิ่ม ลบ ค้นหา และติ๊กทำเสร็จของรายการสิ่งที่ต้องทำ
+พร้อม UI ที่เรียบง่ายใช้งานสะดวก
+<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 15 - 2025-07-25 at 17 51 31" src="https://github.com/user-attachments/assets/22c5dcd6-9c17-4ad4-826a-0bebf1f9cbe1" />
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🎯 จุดประสงค์
+-ฝึกใช้ Flutter และการทำงานกับ State
+-เรียนรู้การใช้งาน Widget พื้นฐาน เช่น ListView, TextField, AppBar, ElevatedButton
+-เข้าใจการสร้าง Layout และแยกไฟล์เป็น Component
+-ใช้งาน setState(), Controller, CRUD, search
